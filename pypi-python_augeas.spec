@@ -7,7 +7,7 @@
 #
 Name     : pypi-python_augeas
 Version  : 1.1.0
-Release  : 52
+Release  : 53
 URL      : https://files.pythonhosted.org/packages/af/cc/5064a3c25721cd863e6982b87f10fdd91d8bcc62b6f7f36f5231f20d6376/python-augeas-1.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/af/cc/5064a3c25721cd863e6982b87f10fdd91d8bcc62b6f7f36f5231f20d6376/python-augeas-1.1.0.tar.gz
 Summary  : Python bindings for Augeas
