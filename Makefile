@@ -1,5 +1,5 @@
 PKG_NAME := pypi-python_augeas
-URL = https://files.pythonhosted.org/packages/af/cc/5064a3c25721cd863e6982b87f10fdd91d8bcc62b6f7f36f5231f20d6376/python-augeas-1.1.0.tar.gz
+URL = https://files.pythonhosted.org/packages/44/f6/e09619a5a4393fe061e24a6f129c3e1fbb9f25f774bfc2f5ae82ba5e24d3/python-augeas-1.2.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
